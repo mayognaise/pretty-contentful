@@ -39,6 +39,9 @@ After:
 ```json
 {
   "id": "XNZt3G2nySkKcasU2ma0k",
+  "createdAt": "2018-10-06T18:15:44.698Z",
+  "updatedAt": "2018-10-06T18:15:44.698Z",
+  "locale": "en-US",
   "spaceId": "57ms2witonnw",
   "contentType": "page",
   "entryTitle": "About",
@@ -103,6 +106,9 @@ After:
 [
   {
     "id": "37XQFMMcfeWuCM2Oq0kkAw",
+    "createdAt": "2018-10-06T18:14:53.050Z",
+    "updatedAt": "2018-10-06T18:14:53.050Z",
+    "locale": "en-US",
     "spaceId": "57ms2witonnw",
     "contentType": "page",
     "entryTitle": "Home (Default)",
@@ -111,6 +117,9 @@ After:
     "description": "I love Contentful!",
     "image": {
       "id": "5a25O6egjKKYASQ4gm0Cku",
+      "createdAt": "2018-10-06T18:14:40.361Z",
+      "updatedAt": "2018-10-06T18:14:40.361Z",
+      "locale": "en-US",
       "spaceId": "57ms2witonnw",
       "title": "og-contentful",
       "file": {
@@ -129,6 +138,9 @@ After:
   },
   {
     "id": "XNZt3G2nySkKcasU2ma0k",
+    "createdAt": "2018-10-06T18:15:44.698Z",
+    "updatedAt": "2018-10-06T18:15:44.698Z",
+    "locale": "en-US",
     "spaceId": "57ms2witonnw",
     "contentType": "page",
     "entryTitle": "About",
